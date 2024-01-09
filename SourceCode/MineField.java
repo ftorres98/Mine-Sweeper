@@ -1,8 +1,3 @@
-// Name: Fernando Torres
-// USC NetID: torresfe
-// CS 455 PA3
-// Fall 2021
-
 import java.util.Random;
 
 /** 

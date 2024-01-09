@@ -1,8 +1,3 @@
-// Name: Fernando Torres
-// USC NetID: torresfe
-// CS 455 PA3
-// Fall 2021
-
 /**
    MineSweeper -- main class for a GUI minesweeper game.
    Games use a 9 x 9 board with 10 randomly placed mines.  For more details about this

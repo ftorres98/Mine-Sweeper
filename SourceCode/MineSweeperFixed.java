@@ -1,8 +1,3 @@
-// Name: Fernando Torres
-// USC NetID: torresfe
-// CS 455 PA3
-// Fall 2021
-
 /**
    MineSweeperFixed -- main class for a GUI minesweeper game.
    Uses a hard-coded mine field for testing purposes.  For more details about this
